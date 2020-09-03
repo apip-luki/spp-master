@@ -1,0 +1,1 @@
+$(document).ready(function () { listUser(){ $('#listUserTable').dataTable({ "bPaginate": false, "bInfo": false, "bFilter": false, "bLengthChange": false, "pageLength": 5 }); function listUser() { $.ajax({ type: 'ajax', url: 'admin/pembayaran' }) } } })

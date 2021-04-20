@@ -1,8 +1,4 @@
 ############################
-APLIKASI PEMBAYARAN SPP 
-############################
-
-############################
 Login aplikasi 
 ############################
 Halaman admin
@@ -15,13 +11,5 @@ Halaman petugas
 username = petugas
 password = petugas123
 
-############################
+#gimme more star okay :)
 
-file database = db_spp.sql
-
-############################
-
-Nama  : Alfip Lutfiana Luki
-Kelas : XI RPL 2
-
-############################

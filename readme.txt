@@ -1,6 +1,3 @@
-############################
-Login aplikasi 
-############################
 Halaman admin
 
 username = admin
